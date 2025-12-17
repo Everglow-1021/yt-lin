@@ -1,0 +1,5 @@
+{
+  "name": "PersonaChat Agent",
+  "description": "A highly customizable AI agent where you define the character's personality, speaking style, and thinking process.",
+  "requestFramePermissions": []
+}
